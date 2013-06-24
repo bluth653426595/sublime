@@ -1,0 +1,20 @@
+[
+  {
+    "caption": "-"
+  },
+  {
+    "command": "gtags_navigate_to_definition", 
+    "args": {}, 
+    "caption": "Navigate to Definition"
+  }, 
+  {
+    "command": "gtags_find_references", 
+    "args": {}, 
+    "caption": "Find References"
+  },
+  {
+    "command": "jump_back", 
+    "args": {}, 
+    "caption": "Jump Back"
+  }
+]

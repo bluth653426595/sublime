@@ -1,0 +1,772 @@
+{
+	"folder_history":
+	[
+		"/home/ycl/dde",
+		"/home/ycl/dde/lib",
+		"/home/ycl/dde/lib/dentry",
+		"/home/ycl/dde/lib/dbus"
+	],
+	"last_window_id": 8,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"plu",
+						"plugin"
+					],
+					[
+						"s",
+						"speical_item"
+					],
+					[
+						"D",
+						"DesktopPlugin"
+					],
+					[
+						"plugin",
+						"plugins"
+					],
+					[
+						"weat",
+						"weather_dir"
+					],
+					[
+						"load",
+						"load_weather_plugin"
+					],
+					[
+						"city",
+						"cityid"
+					],
+					[
+						"weather",
+						"weathergui_update_autolocate"
+					],
+					[
+						"more",
+						"more_city_menu"
+					],
+					[
+						"weather_dat",
+						"weather_data_more"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 121.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"c",
+						"Coffee: Run Script"
+					],
+					[
+						"js2",
+						"JS2Coffee: Convert & Make New File"
+					],
+					[
+						"co",
+						"Coffee: Compile File"
+					],
+					[
+						"",
+						"Coffee: Quick Run Bar"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ints",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"instll",
+						"Package Control: Install Package"
+					],
+					[
+						"insl",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: is",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 424.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ycl/dde/lib/dentry/entry.c",
+				"/home/ycl/dde/resources/desktop/plugin/main.coffee",
+				"/home/ycl/dde/resources/desktop/js/main.coffee",
+				"/home/ycl/dde/resources/desktop/js/desktop_item.coffee",
+				"/home/ycl/dde/resources/desktop/js/dispatch.coffee",
+				"/home/ycl/Yunio/plugin依赖的函数接口及解决方案.txt",
+				"/home/ycl/dde/resources/desktop/js/makefile",
+				"/home/ycl/dde/resources/desktop/plugin/plugin.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/main.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/weather.coffee",
+				"/home/ycl/dde/po/zh_TW.po",
+				"/home/ycl/dde/po/zh_CN.po",
+				"/home/ycl/.cache/.fr-6Wj3PY/dde/po/zh_TW.po",
+				"/home/ycl/.cache/.fr-Ansv0N/dde/po/zh_CN.po",
+				"/home/ycl/Yunio/3天气插件/zh_TW.po",
+				"/home/ycl/.cache/.fr-QQEts9/dde/po/zh_TW.po",
+				"/home/ycl/.cache/.fr-FQ3EqK/desktop/js/desktop_plugin.coffee",
+				"/home/ycl/.cache/.fr-8d6NzJ/desktop/js/signals.coffee",
+				"/home/ycl/.cache/.fr-n1caYj/desktop/js/main.coffee",
+				"/home/ycl/.cache/.fr-yXZbP6/desktop/js/desktop_item.coffee",
+				"/home/ycl/.cache/.fr-layU0d/desktop/js/common.coffee",
+				"/home/ycl/.cache/.fr-rZj35X/desktop/js/dispatch.coffee",
+				"/home/ycl/.cache/.fr-YolS1V/desktop/js/main.coffee",
+				"/home/ycl/dde/resources/desktop/js/grid.coffee",
+				"/home/ycl/.cache/.fr-lDdKiN/resources/common/js/utils.coffee",
+				"/home/ycl/dde/resources/common/js/utils.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/makefile",
+				"/home/ycl/dde/resources/desktop/plugin/weather/makefile",
+				"/home/ycl/dde/resources/desktop/plugin/weather/loader.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/citymoremenu.css",
+				"/home/ycl/dde/resources/desktop/plugin/weather/clientcityid.coffee",
+				"/home/ycl/.cache/.fr-f2Ubmb/desktop/js/main.coffee",
+				"/home/ycl/.cache/.fr-xSQAZC/desktop/js/desktop_item.coffee",
+				"/home/ycl/.cache/.fr-bGhId3/desktop/js/desktop_plugin.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/weather.css",
+				"/home/ycl/dde/resources/desktop/plugin/weather/weatherdata.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/citymoremenu.coffee",
+				"/home/ycl/dde/resources/desktop/js/loader.coffee",
+				"/home/ycl/Yunio/linuxdeepin/utils.coffee",
+				"/home/ycl/dde/resources/common/js/widget.coffee",
+				"/home/ycl/Yunio/plugin依赖的函数接口05221122.txt",
+				"/home/ycl/dde/resources/desktop/plugin/loader.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/data.coffee"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"speical_item",
+					"_(",
+					"desktop_plugin",
+					"plugin.js",
+					"load_desktop_plugin",
+					"autoloca",
+					"\")\n",
+					"cityid_choose_storage",
+					"localStorage.set",
+					"cityid_storage",
+					"getObject",
+					"setObject",
+					"weather_data",
+					"ClientCityId",
+					"display_city_menu_id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cityid_storage",
+					"weather_data_more"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 106.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"plu",
+						"plugin"
+					],
+					[
+						"s",
+						"speical_item"
+					],
+					[
+						"D",
+						"DesktopPlugin"
+					],
+					[
+						"plugin",
+						"plugins"
+					],
+					[
+						"weat",
+						"weather_dir"
+					],
+					[
+						"load",
+						"load_weather_plugin"
+					],
+					[
+						"city",
+						"cityid"
+					],
+					[
+						"weather",
+						"weathergui_update_autolocate"
+					],
+					[
+						"more",
+						"more_city_menu"
+					],
+					[
+						"weather_dat",
+						"weather_data_more"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/ycl/dde/lib/dentry/entry.c",
+					"settings":
+					{
+						"buffer_size": 25152,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 209.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"c",
+						"Coffee: Run Script"
+					],
+					[
+						"js2",
+						"JS2Coffee: Convert & Make New File"
+					],
+					[
+						"co",
+						"Coffee: Compile File"
+					],
+					[
+						"",
+						"Coffee: Quick Run Bar"
+					],
+					[
+						"ints",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"instll",
+						"Package Control: Install Package"
+					],
+					[
+						"insl",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: is",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 384.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ycl/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/ycl/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/ycl/dde/lib/dentry/entry.c",
+				"/home/ycl/dde/resources/desktop/plugin/main.coffee",
+				"/home/ycl/dde/resources/desktop/js/main.coffee",
+				"/home/ycl/dde/resources/desktop/js/desktop_item.coffee",
+				"/home/ycl/dde/resources/desktop/js/dispatch.coffee",
+				"/home/ycl/Yunio/plugin依赖的函数接口及解决方案.txt",
+				"/home/ycl/dde/resources/desktop/js/makefile",
+				"/home/ycl/dde/resources/desktop/plugin/plugin.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/main.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/weather.coffee",
+				"/home/ycl/dde/po/zh_TW.po",
+				"/home/ycl/dde/po/zh_CN.po",
+				"/home/ycl/.cache/.fr-6Wj3PY/dde/po/zh_TW.po",
+				"/home/ycl/.cache/.fr-Ansv0N/dde/po/zh_CN.po",
+				"/home/ycl/Yunio/3天气插件/zh_TW.po",
+				"/home/ycl/.cache/.fr-QQEts9/dde/po/zh_TW.po",
+				"/home/ycl/.cache/.fr-FQ3EqK/desktop/js/desktop_plugin.coffee",
+				"/home/ycl/.cache/.fr-8d6NzJ/desktop/js/signals.coffee",
+				"/home/ycl/.cache/.fr-n1caYj/desktop/js/main.coffee",
+				"/home/ycl/.cache/.fr-yXZbP6/desktop/js/desktop_item.coffee",
+				"/home/ycl/.cache/.fr-layU0d/desktop/js/common.coffee",
+				"/home/ycl/.cache/.fr-rZj35X/desktop/js/dispatch.coffee",
+				"/home/ycl/.cache/.fr-YolS1V/desktop/js/main.coffee",
+				"/home/ycl/dde/resources/desktop/js/grid.coffee",
+				"/home/ycl/.cache/.fr-lDdKiN/resources/common/js/utils.coffee",
+				"/home/ycl/dde/resources/common/js/utils.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/makefile",
+				"/home/ycl/dde/resources/desktop/plugin/weather/makefile",
+				"/home/ycl/dde/resources/desktop/plugin/weather/loader.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/citymoremenu.css",
+				"/home/ycl/dde/resources/desktop/plugin/weather/clientcityid.coffee",
+				"/home/ycl/.cache/.fr-f2Ubmb/desktop/js/main.coffee",
+				"/home/ycl/.cache/.fr-xSQAZC/desktop/js/desktop_item.coffee",
+				"/home/ycl/.cache/.fr-bGhId3/desktop/js/desktop_plugin.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/weather.css",
+				"/home/ycl/dde/resources/desktop/plugin/weather/weatherdata.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/citymoremenu.coffee",
+				"/home/ycl/dde/resources/desktop/js/loader.coffee",
+				"/home/ycl/Yunio/linuxdeepin/utils.coffee",
+				"/home/ycl/dde/resources/common/js/widget.coffee",
+				"/home/ycl/Yunio/plugin依赖的函数接口05221122.txt",
+				"/home/ycl/dde/resources/desktop/plugin/loader.coffee",
+				"/home/ycl/dde/resources/desktop/plugin/weather/data.coffee"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"speical_item",
+					"_(",
+					"desktop_plugin",
+					"plugin.js",
+					"load_desktop_plugin",
+					"autoloca",
+					"\")\n",
+					"cityid_choose_storage",
+					"localStorage.set",
+					"cityid_storage",
+					"getObject",
+					"setObject",
+					"weather_data",
+					"ClientCityId",
+					"display_city_menu_id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cityid_storage",
+					"weather_data_more"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/ycl/dde"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/ycl/dde/lib/dentry/entry.c",
+							"settings":
+							{
+								"buffer_size": 25152,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4791,
+										4791
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"function_name_status_row": 172,
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3225.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 106.0
+			},
+			"position": "0,0,0,0,0,521,204,1161,684,1440,900",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

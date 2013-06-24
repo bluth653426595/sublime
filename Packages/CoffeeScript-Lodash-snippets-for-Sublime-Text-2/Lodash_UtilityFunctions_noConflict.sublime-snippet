@@ -1,0 +1,7 @@
+<!-- _ as of version 1.1.1 -->
+<snippet>
+   <content><![CDATA[_.noConflict()$0]]></content>
+    <tabTrigger>_noConflict</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Reverts the '_' variable to its previous value and returns a reference to the lodash function</description>
+</snippet>

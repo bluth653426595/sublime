@@ -1,0 +1,7 @@
+<!-- _ as of version 1.1.1 -->
+<snippet>
+   <content><![CDATA[_.isElement ${1:object} $0]]></content>
+    <tabTrigger>_isE</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Checks if value is a DOM element</description>
+</snippet>

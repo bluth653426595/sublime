@@ -7,6 +7,8 @@ sublime config files ;
 
 2.git clone git@github.com:bluth653426595/sublime.git
 
-2.rename it to sublime-text-2
+3.rename it to sublime-text-2
 
-2.copy into ~/.config
+4.copy into ~/.config
+
+5.restart sublime soft

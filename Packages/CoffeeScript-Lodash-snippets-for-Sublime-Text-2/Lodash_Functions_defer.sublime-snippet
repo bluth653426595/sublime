@@ -1,0 +1,7 @@
+<!-- _ as of version 1.1.1 -->
+<snippet>
+   <content><![CDATA[_.defer ${1:function}${2:, ${3:*arguments}} $0]]></content>
+    <tabTrigger>_defer</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Defers executing the func function until the current call stack has cleared. Additional arguments will be passed to func when it is invoked</description>
+</snippet>

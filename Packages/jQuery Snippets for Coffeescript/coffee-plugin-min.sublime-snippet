@@ -1,0 +1,21 @@
+<snippet>
+
+	<content><![CDATA[
+\$.fn.extend
+  ${1:bobIsMyUncle}: (options) ->
+    settings = {}
+    settings = \$.extend settings, options
+
+    @each ()->
+      ${2:\$(@).replace '<div style="background: red; padding: 10px; color: #ff0000;">Bob\'s your uncle.</div>'}
+
+# You might use it like this:
+\$ ->
+  \$('[data-behavior="${1:bobIsMyUncle}"]').${1:bobIsMyUncle}()]]></content>
+
+	<tabTrigger>jquery-plugin-min</tabTrigger>
+
+	<scope>source.coffee</scope>
+	<description>jQuery Plugin</description>
+
+</snippet>
